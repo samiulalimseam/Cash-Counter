@@ -21,7 +21,8 @@ var outputArr= '';
         
     }
     
-    document.getElementById('bill1').innerHTML =( outputArr+ '<br>'+'Total: '+ bill);
+    document.getElementById('bill1').innerHTML =( outputArr);
+    document.getElementById('bill2').innerHTML =(bill+' tk');
     
 }
 
