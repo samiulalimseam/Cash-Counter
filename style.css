@@ -1,0 +1,31 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: white;
+    margin: 20px auto;
+    background-color: rgb(124, 159, 190);
+    width: 400px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.canvas {
+    padding: 5px;
+    width: 400px;
+    background-color: antiquewhite;
+    margin: 20px auto;
+}
+.btn { cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    margin: 20px auto;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    background-color: green;
+    height: 40px;
+    
+}
